@@ -1,0 +1,14 @@
+project:
+  main.go: file
+  pkg:
+    utils.go: file
+    helpers.go: file
+  cmd:
+    myapp.go: file
+  internal:
+    db:
+      connection.go: file
+    api:
+      handler.go: file
+  README.md: file
+  LICENSE: file
